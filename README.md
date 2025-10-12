@@ -1,5 +1,3 @@
-# Conninqs
-Conninqs
 <html>
 <head>
 <meta charset="utf-8">
@@ -346,6 +344,7 @@ Conninqs
 <br>📌 Ответственные: *Conninqs*
 
 <br>---
+</html>
 
 
 
